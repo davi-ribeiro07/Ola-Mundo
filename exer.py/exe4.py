@@ -1,4 +1,4 @@
-for n in range(2,101):
+for n in range(2,201):
     if n in (2, 3, 5, 7):
         print(n , 'é primo')
     elif (n % 2 != 0 and n % 3 != 0 and n % 4 != 0 and n % 5 != 0 and
